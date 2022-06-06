@@ -1,0 +1,4 @@
+configs/DateConfig.class
+com/api/parkingcontroll/dtos/ParkingSpotDto.class
+com/api/parkingcontroll/ParkingControllApplication.class
+com/api/parkingcontroll/models/ParkingSpotModel.class
